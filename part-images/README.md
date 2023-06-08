@@ -1,1 +1,1 @@
-Part images and toolpaths
+Part images
